@@ -15,7 +15,7 @@ import java.util.Scanner;
  * version: 1.0
  */
 public class TestRectangle {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IllegalAccessException {
         // Tạo đối tượng Scanner để nhập liệu
         Scanner sc = new Scanner(System.in);
 
